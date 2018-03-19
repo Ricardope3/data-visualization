@@ -8,5 +8,5 @@ In this repository there is all the different ways one can think of to do visual
 * To learn how to connect and push from local environment to remote environment.
 * To learn how to fetch
 * To learn to commit changes
-<br/>
+___
 * To make the Jupyter Notebooks available for studying and revising
